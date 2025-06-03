@@ -1,3 +1,5 @@
+import main.java.Questao;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
